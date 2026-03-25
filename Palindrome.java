@@ -10,6 +10,10 @@ public class Palindrome {
             rev = rev*10 + digit;
             a/=10;
         }
+        if(ori==rev)
+        {
+            System.out.print("IT is a Palindrome");
+        }
         if(rev==ori)
         {
             System.out.print("It is a Palindrome");
