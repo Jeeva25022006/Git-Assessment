@@ -1,0 +1,2 @@
+Java is a High level language because human easily understand and write , read , and understand.
+Java is a object oriented beacause it is support oops like Encapsulation, Polymorphism, Inheritance, Abstraction
